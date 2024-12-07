@@ -61,13 +61,13 @@ git clone https://github.com/chiraaax/Smart-BMI-Wizard.git
 
 ## **📊 BMI Categories**
 
-| **Category**       | **BMI Range**         | **Feedback Color** | **Health Tips**                                                                         |
-|---------------------|-----------------------|--------------------|---------------------------------------------------------------------------------------|
-| Underweight         | Below 18.5           | Blue               | Increase calorie intake with nutrient-rich foods.                                     |
-| Normal Weight       | 18.5 – 24.9          | Green              | Maintain a balanced diet and regular exercise.                                        |
-| Overweight          | 25.0 – 29.9          | Orange             | Focus on healthy eating habits and more physical activity.                            |
-| Obesity             | 30.0 – 40.0          | Red                | Consult a healthcare provider for a tailored weight management plan.                 |
-| Extremely Obese     | Above 40.0           | Dark Red           | Seek medical advice for potential health risks and a structured intervention plan.    |
+| **Category**        | **BMI Range**        | **Feedback Color**    | **Health Tips**                                                                       |
+|---------------------|----------------------|-----------------------|---------------------------------------------------------------------------------------|
+| Underweight         | Below 18.5           | Blue 🟦              | Increase calorie intake with nutrient-rich foods.                                     |
+| Normal Weight       | 18.5 – 24.9          | Green 🟩             | Maintain a balanced diet and regular exercise.                                        |
+| Overweight          | 25.0 – 29.9          | Orange 🟧            | Focus on healthy eating habits and more physical activity.                            |
+| Obesity             | 30.0 – 40.0          | Red 🟥               | Consult a healthcare provider for a tailored weight management plan.                  |
+| Extremely Obese     | Above 40.0           | Dark Red 🔴          | Seek medical advice for potential health risks and a structured intervention plan.    |
 
 ---
 
