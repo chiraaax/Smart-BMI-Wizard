@@ -73,14 +73,11 @@ git clone https://github.com/chiraaax/Smart-BMI-Wizard.git
 
 ## **🎨 Screenshots**
 
-### **Dark Mode**
-![Dark Mode Screenshot](link_to_dark_mode_image)
-
 ### **Light Mode**
-![Light Mode Screenshot](link_to_light_mode_image)
+![Light Mode Screenshot](https://github.com/chiraaax/Smart-BMI-Wizard/blob/main/Screenshots/Screenshot-Light.png?raw=true)
 
-### **BMI Chart**
-![BMI Chart Screenshot](link_to_chart_image)
+### **Dark Mode**
+![Dark Mode Screenshot](https://github.com/chiraaax/Smart-BMI-Wizard/blob/main/Screenshots/Screenshot-Dark.png?raw=true)
 
 ---
 
